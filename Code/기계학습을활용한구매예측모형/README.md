@@ -5,4 +5,11 @@
 - 전체 74,204명 중 랜덤추출을 통해 70%의 데이터(Training Data Set)는 예측 모형 훈련에 사용, 나머디 30% 데이터(Test Data Set)는 결과값이 없는 데이터라고 간주. Training Data Set을 이용해 생성된 예측모형이 새로운 데이터에서도 잘 작동할지(예측력)를 평가함
 
 ### 구매예측모형 투입 변수
+![변수](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95/%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95%ED%88%AC%EC%9E%85%EB%B3%80%EC%88%98%EB%AA%A9%EB%A1%9D.jpg)
+
+- 다양한 에측 기법의 비교 및 최적 모델 구축을 위해 이진분류에 많이 사용되는 모델인 **의사결정나무(Decision Tree), 랜덤 포레스트(Random Forest), XGBoost모델**을 활용해 비교하고, **보팅 분류기(Voting Classifier)** 를 사용해 최종 모델을 결정
+- 모델 분류 성능 측정 방법은 이진 분류의 예측 성능에서 중요하게 사용되는 **ROC-AUC Score**. 이진분류(재구매 여부 0,1)의 경우 데이터의 구성에 따라 머신러닝 모델의 성능이 왜곡될 수 있고, 실제 구매하지 않은 고객을 구매한 고객으로 판단했을 때 구매 예측 모형 해석 및 활용에 한계가 있으므로 **정밀도(Precision)** 을 고려하여 에측 성능을 보완
+
+## 2. 구매에측모형 결과
+* 향후 재검토 결과 코드에 오류가 발견되어 이전에 내었던 시각화 자료와 다를 수 있음
 
