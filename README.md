@@ -7,7 +7,7 @@
 * 고객 기초통계 분석
 * 군집화 및 군집특성 분석
 * 장르구매패턴분석
-* 기계학습을 활용한 구매예측모형
+* [기계학습을 활용한 구매예측모형](https://github.com/chIorophyII/ArtCenter_Project/tree/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95)
 
 ## 📃 프로세스
 ### (1) 데이터셋 설정
