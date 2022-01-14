@@ -35,7 +35,7 @@
 
 ### C. XGBoost
 - Confusion Matrix  
-![XGBoost예측성능](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95/Images/VotingClassifierAccuracy.png)  
+![XGBoost예측성능](https://github.com/chIorophyII/SeoulArtCenter_Project/blob/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95/Images/XGBoostConfusionMatrix.png)  
 - ROC Curve  
 ![XGBoostROC곡선](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95/Images/XGBoostROC.png)  
 - Precision / Recall  
