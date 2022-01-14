@@ -14,38 +14,38 @@
 ※ 향후 재검토 결과 코드에 오류가 발견되어 이전에 내었던 시각화 자료와 다를 수 있음
 
 ### A. 의사결정나무(Decision Tree)
-- Confusion Matrix
+- Confusion Matrix  
 ![의사결정나무예측성능](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95/Images/DecisionTreeConfusionMatrix.png)  
-- ROC Curve
+- ROC Curve  
 ![의사결정나무ROC곡선](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95/Images/DecisionTreeROC.png)  
-- Precision / Recall
+- Precision / Recall  
 ![의사결정나무정밀도재현율](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95/Images/DecisionTreePrecisionRecall.png)  
-- Feature Importance
+- Feature Importance  
 ![의사결정나무변수중요도](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95/Images/DecisionTreeFeatureImportance.png)  
 
 ### B. 랜덤포레스트(Random Forest)
-- Confusion Matrix
+- Confusion Matrix  
 ![랜덤포레스트예측성능](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95/Images/RandomForestConfusionMatrix.png)  
-- ROC Curve
+- ROC Curve  
 ![랜덤포레스트ROC곡선](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95/Images/RandomForestROC.png)
-- Precision / Recall
+- Precision / Recall  
 ![랜덤포레스트정밀도재현율](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95/Images/RandomForestPrecisionRecall.png)  
-- Feature Importance
+- Feature Importance  
 ![랜덤포레스트변수중요도](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95/Images/RandomForestFeatureImportance.png)  
 
 ### C. XGBoost
-- Confusion Matrix
+- Confusion Matrix  
 ![XGBoost예측성능](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95/Images/VotingClassifierAccuracy.png)  
-- ROC Curve
+- ROC Curve  
 ![XGBoostROC곡선](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95/Images/XGBoostROC.png)  
-- Precision / Recall
+- Precision / Recall  
 ![XGBoost정밀도재현율](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95/Images/XGBoostPrecisionRecall.png)  
-- Feature Importance
+- Feature Importance  
 ![XGBoost변수중요도](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95/Images/XGBoostFeatureImportance1.png)  
 ![XGBoost변수중요도2](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95/Images/XGBoostFeatureImportance1.png)
 
 ### D. Voting Classifier
-- 모델별 예측 정확도
+- 모델별 예측 정확도  
 ![VotingClassifierAccuracy](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95/Images/VotingClassifierAccuracy.png)
 
 ## 3. 결론
