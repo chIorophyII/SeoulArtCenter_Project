@@ -39,15 +39,14 @@
 - 평가지표 : 지지도(Support), 신뢰도(Confidence), 향상도(Lift)
 ```
 
-4. 기계학습을 활용한 구매예측모형
+4. [기계학습을 활용한 구매예측모형](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95/Purchase_Prediction_Model.ipynb)
 ```
 - 재구매에 영향을 미칠 것이라고 예상되는 변수들을 선정하고 재구매 여부 예측 모델을 개발 및 재구매에 영향을 미치는 주요 변수 탐색
 - 예측 기법으로 의사결정나무(Decision Tree), 랜덤 포레스트(Random Forest), XGBoost 활용 후 Voting Classifier를 사용해 최종 모델 결정
 - 성능 측정 지표 : ROC AUC Score, Accuracy Score, Recall
 ```
-## 결과 자료
-
+## [결과 자료](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Result/%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9_%EA%B2%B0%EA%B3%BC%EC%9E%90%EB%A3%8C.pdf)
 
 ## 기타
-[예술의전당 감사 공문 수신]()
+[예술의전당 감사 공문 수신](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Result/%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9_%EA%B0%90%EC%82%AC%EA%B3%B5%EB%AC%B8.png)
   
