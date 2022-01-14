@@ -48,4 +48,7 @@
 - 모델별 예측 정확도
 ![VotingClassifierAccuracy](https://github.com/chIorophyII/ArtCenter_Project/blob/main/Code/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EA%B5%AC%EB%A7%A4%EC%98%88%EC%B8%A1%EB%AA%A8%ED%98%95/Images/VotingClassifierAccuracy.png)
 
+## 3. 결론
+- 여러 모델 중 가장 정확도가 높은 XGBoost를 구매예측모형으로 채택
+- 다양한 모델의 변수중요도를 종합해 봤을 때, **마지막 티켓 구매 후 경과일(최근 구매 고객), 회당 평균 티켓 구매 수, 대관 공연 비중, 교향곡 구매 비중** 등이 중요한 변수로 
 
